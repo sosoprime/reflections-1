@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I did not have to search for the difference between the 2 files, so it is
+    easier to find where to bug is.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It would make me think more on how to organize my program in versions that
+    each time work, or might sometimes need some debugging : I would put the
+    working versions on the master branch, the one's who need debugging on
+    another branch, and the one's adding feature on another one too.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    You have to think about it and know what you want to commit, but you have
+    more control on what you write and when to save (less space storage needed)
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    On the one hand, Git is more adapted to files that are interconnected
+    between each other as it is the case, for instance, when you build up a
+    website. On the other hand, Google Docs is more adapted to one text
+    document which contains everything in the one file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You use git log to search a version of your file and you use diff to
+    compare it with another version. A faster way would be by using git log -u
+    which shows every version and gives the differences with the previous
+    version.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I could commit a working version of the program and then try some new
+    stuff on the program. Since I have committed a working version, I can
+    always go back to the that commit in case the new feature doesn't work
+    properly.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to first test it with the new course, and then using it for
+    my engineering courses at the university.

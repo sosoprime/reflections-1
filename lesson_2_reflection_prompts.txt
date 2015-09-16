@@ -38,7 +38,8 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
     It puts together all the changes of the two branches together.
-    So we can see that they both the changes of the two branches.
+    So we can see the changes of the two branches and how they relate to each
+    other.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
